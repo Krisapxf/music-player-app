@@ -18,6 +18,6 @@ QSlider and QPushButton for beautiful UI elements 🎨
 📸 App Preview 📸
 Here’s a quick peek of what the app looks like in action!
 (Insert your screenshot here)
-
+![app screen](icons/sss.png)
 This app makes your music experience intuitive, fun, and stylish! 🎉 Whether you're working, relaxing, or having a party, it’s the perfect companion to keep your music flowing. 🎶
 
